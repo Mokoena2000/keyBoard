@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(214,214,214);
+
+}
+.container{
+    margin: 160px 0 0 200px;
+}
+
+.row{
+    width: 100%;
+    height: 60px;
+}
+
+.one,.two,.three,.four,.five{
+    margin: 10px 0 0 0;
+} 
+
+button{
+    color: black;
+    width: 55px;
+    height: 55px;
+    background-color: rgb(214,214,214);
+    box-shadow: 5px 5px 10px #474343, -5px 15px 10px #FFF;
+    font-size: 20px;
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20%;
+
+}
+
+button:active{
+    box-shadow: 1px 1px 2px #fff8f8,-1px -1px 2px #474343
+}
+
+.back{
+    width: 115px;
+}
+
+.num{
+    width: 110px;
+}
+
+.ins{
+    width: 70px
+}
+
+.prt{
+    width: 70px;
+}
+
+.del{
+    width: 70px;
+}
+
+.caps{
+    width: 100px;
+}
+
+.enter1{
+    width: 140px;
+}
+
+.ctrl{
+    width: 100px;
+
+}
+
+.shift{
+    width: 150px;
+}
+
+.sbar{
+    width: 300px;
+}
+
+.o{
+    width: 90px;
+}
+
+.tab{
+    width: 90px
+    
+}
+
+.dash{
+    width:90px
+}
+
